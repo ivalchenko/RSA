@@ -1,0 +1,6 @@
+c:\users\ilia\documents\visual studio 2015\Projects\RSA\RSA\bin\Debug\RSA.exe.config
+C:\Users\IliA\Documents\Visual Studio 2015\Projects\RSA\RSA\bin\Debug\RSA.exe
+C:\Users\IliA\Documents\Visual Studio 2015\Projects\RSA\RSA\bin\Debug\RSA.pdb
+C:\Users\IliA\Documents\Visual Studio 2015\Projects\RSA\RSA\obj\Debug\RSA.csprojResolveAssemblyReference.cache
+C:\Users\IliA\Documents\Visual Studio 2015\Projects\RSA\RSA\obj\Debug\RSA.exe
+C:\Users\IliA\Documents\Visual Studio 2015\Projects\RSA\RSA\obj\Debug\RSA.pdb
